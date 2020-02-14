@@ -1,3 +1,5 @@
+#### I'm going to edit this for teams
+
 The command below will use tccprofile.py to generate a whitelist profile with the following characteristics:
 
 Able to send restricted AppleEvents:
